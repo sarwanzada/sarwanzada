@@ -1,8 +1,8 @@
 # ✨ Who am I
 
-A Artificial Intelligence Student during the weekdays
+A Artificial Intelligence Student during the weekdays.
 <br>
-A football and cricket player on the weekends
+A football and cricket player on the weekends.
 
 # ⚡ What i like to do to relax
 
