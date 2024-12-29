@@ -1,6 +1,6 @@
 # ✨ Who am I
 
-A Artificial Intelligence Student during the weekdays.
+An Artificial Intelligence Student during the weekdays.
 <br>
 A football and cricket player on the weekends.
 
@@ -8,8 +8,9 @@ A football and cricket player on the weekends.
 
 - Solving puzzles
 - Playing video games
-- Reviewing memes
+- Playing Musical Instruments
 - Listening to music
+- 
 
 ---
 
