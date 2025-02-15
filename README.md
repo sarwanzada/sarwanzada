@@ -2,7 +2,7 @@
 
 An Artificial Intelligence Student during the weekdays.
 <br>
-A football and cricket player on the weekends.
+A football player on the weekends.
 
 # ⚡ What i like to do to relax
 
@@ -10,7 +10,7 @@ A football and cricket player on the weekends.
 - Playing video games
 - Playing Musical Instruments
 - Listening to music
-- 
+- Book reading
 
 ---
 
